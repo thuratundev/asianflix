@@ -27,6 +27,14 @@ This Flutter app is your ultimate destination for exploring and enjoying the bes
 3. **Install Dependencies**: `flutter pub get`
 4. **Run the App**: `flutter run`
 
+### Sample App UI
+
+Here are some app UI:
+
+![Main Screen](https://drive.google.com/uc?export=view&id=1VAndt5eT8nNszhEE-Q9voiyqx-jKv7KA)
+![Select Season](https://drive.google.com/uc?export=view&id=1kek3GAiv2et0xqBBZgrrjmyr46fV-Dyk)
+![Enjoy View](https://drive.google.com/uc?export=view&id=1CoD9GjPTiXdsmKkUJVcV7uBybYT8BqGb)
+
 ### Contribute
 
 Contributions are welcome! Whether you're a developer, designer, or enthusiast, feel free to contribute to make this app even better. Fork the repository, make your changes, and submit a pull request.
@@ -40,8 +48,5 @@ This project is licensed under the [MIT License](link_to_license). Feel free to 
 
 We extend our gratitude to the Flutter community and all contributors for their support and valuable contributions to this project.
 
-Thank you for using the Korea Series Movie App! 🙌
 
----
-
-*Disclaimer: This app is not affiliated with or endorsed by any specific movie studio or production company. All movie content is sourced from publicly available APIs.*
+*Disclaimer: This application is developed solely for educational purposes and is not intended for commercial use. All content, including images and data, is sourced from publicly available APIs and web sources.*
