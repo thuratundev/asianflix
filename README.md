@@ -39,11 +39,6 @@ Here are some app UI:
 
 Contributions are welcome! Whether you're a developer, designer, or enthusiast, feel free to contribute to make this app even better. Fork the repository, make your changes, and submit a pull request.
 
-
-### License
-
-This project is licensed under the [MIT License](link_to_license). Feel free to modify and distribute this project for personal or commercial use.
-
 ### Acknowledgements
 
 We extend our gratitude to the Flutter community and all contributors for their support and valuable contributions to this project.
