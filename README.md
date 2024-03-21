@@ -3,7 +3,7 @@
 
 Welcome to the Korea Series Movie App! 🎬
 
-![Korea Series Movie App Banner](https://drive.google.com/file/d/1VAndt5eT8nNszhEE-Q9voiyqx-jKv7KA/view?usp=sharing)
+![Korea Series Movie App Banner](https://drive.google.com/uc?export=view&id=1VAndt5eT8nNszhEE-Q9voiyqx-jKv7KA)
 
 ### About
 
